@@ -1,3 +1,3 @@
 # Node Zero
 
-Javascript implementation of ZeroNet.
+Pure JavaScript implementation of ZeroNet.
