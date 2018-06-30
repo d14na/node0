@@ -1,9 +1,9 @@
 {
-  "name": "0net-node",
-  "version": "18.6.28",
-  "description": "0net daemon",
+  "name": "node0",
+  "version": "18.6.30",
+  "description": "Pure JavaScript implementation of ZeroNet.",
   "main": "index.js",
-  "repository": "https://github.com/d14na/0net-node.git",
+  "repository": "https://github.com/d14na/node0.git",
   "author": "D14na",
   "license": "MIT",
   "scripts": {
