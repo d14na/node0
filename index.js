@@ -3,14 +3,23 @@
 const express = require('express')
 const app = express()
 
-app.get('/', (req, res) => res.send('Are you looking for ZeroNet?'))
+app.get('/', (req, res) => {
+    const peer0 = require('peer0')
+    console.log('peer0 test', peer0.test())
 
-app.get('/:path', (req, res) => res.send('Are you looking for ZeroNet?'))
+    res.send('Are you looking for ZeroNet?')
+})
+
+app.get('/:path', (req, res) => {
+    const path = req.params.path
+    console.log('path', path)
+
+    res.send('Are you looking for ' + path)
+})
 
 app.listen(43110, () => console.log('Listening on ZeroNet default [43110]'))
 
-
-_announce() {
+function _announce() {
     /* Localize this. */
     const self = this
 
