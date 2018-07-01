@@ -1237,9 +1237,9 @@ pathval@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pathval/-/pathval-1.1.0.tgz#b942e6d4bde653005ef6b71361def8727d0645e0"
 
-peer0@^18.6.30-c:
-  version "18.6.30-c"
-  resolved "https://registry.yarnpkg.com/peer0/-/peer0-18.6.30-c.tgz#07d0f3c00426e265125e89e8d2c953444ce29536"
+peer0@^18.6.30-d:
+  version "18.6.30-d"
+  resolved "https://registry.yarnpkg.com/peer0/-/peer0-18.6.30-d.tgz#cebf7c3fa7c4b006308154bd5e6c5b544190b948"
 
 posix-character-classes@^0.1.0:
   version "0.1.1"

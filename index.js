@@ -5,7 +5,8 @@ const app = express()
 
 app.get('/', (req, res) => {
     const peer0 = require('peer0')
-    console.log('peer0 test', peer0.test())
+    console.log('peer0 test', peer0.hello())
+    console.log('triple 3', peer0.triple(3))
 
     res.send('Are you looking for ZeroNet?')
 })

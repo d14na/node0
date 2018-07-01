@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^4.16.3",
-    "peer0": "^18.6.30-c"
+    "peer0": "^18.6.30-d"
   },
   "devDependencies": {
     "chai": "^4.1.2",
