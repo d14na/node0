@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/d14na/node0.png?branch=master)](https://travis-ci.org/d14na/node0)
 [![NPM](https://img.shields.io/npm/v/node0.svg)](https://www.npmjs.org/package/node0)
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) [![Greenkeeper badge](https://badges.greenkeeper.io/d14na/node0.svg)](https://greenkeeper.io/)
 
 Pure JavaScript implementation of ZeroNet.
 
